@@ -16,9 +16,14 @@ const config: Config = {
     },
     colors: {
       'light-gray': '#F9FAFB',
+      'light-gray-2': '#71717A',
       'white': '#FFFFFF',
       'violet': '#8B5CF6',
+      'light-black': '#18181B',
     },
+    fontFamily: {
+      inter: ['Inter', 'sans-serif'],
+    }
   },
   plugins: [],
 }
