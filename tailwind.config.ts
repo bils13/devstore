@@ -20,6 +20,7 @@ const config: Config = {
       'white': '#FFFFFF',
       'violet': '#8B5CF6',
       'light-black': '#18181B',
+      'gray': '#3F3F46',
     },
     fontFamily: {
       inter: ['Inter', 'sans-serif'],
